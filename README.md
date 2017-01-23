@@ -1,0 +1,1 @@
+This is a test of using numpy with [rust-cpython](https://github.com/dgrunwald/rust-cpython). It is not ready for production.
